@@ -1,0 +1,10 @@
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Datafix_SMART976.exe.config
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\obj\Debug\Datafix_SMART976.csprojResolveAssemblyReference.cache
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Datafix_SMART976.exe
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Datafix_SMART976.pdb
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\obj\Debug\Datafix_SMART976.exe
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\Datafix_SMART976\Datafix_SMART976\obj\Debug\Datafix_SMART976.pdb
